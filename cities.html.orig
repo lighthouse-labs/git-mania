@@ -30,11 +30,11 @@
     <li>Karachi  (12,991,000)</li>
     <li>Mumbai   (12,478,447)</li>
     <li>Canberra (500,000)</li>
-D
+<<<<<<< HEAD
    <li>Cameroon (50,000,000)</li>
-
+=======
     <li>New York (5,000,000)</li>
-
+>>>>>>> 541469854964543f206ba8df74bb52fc9c3eaa10
   </ol>
 
 </body>
